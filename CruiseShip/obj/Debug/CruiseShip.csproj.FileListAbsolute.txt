@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\CruiseShip\CruiseShip\bin\Debug\CruiseShip.exe.config
+c:\users\wecancodeit\source\repos\CruiseShip\CruiseShip\bin\Debug\CruiseShip.exe
+c:\users\wecancodeit\source\repos\CruiseShip\CruiseShip\bin\Debug\CruiseShip.pdb
+c:\users\wecancodeit\source\repos\CruiseShip\CruiseShip\obj\Debug\CruiseShip.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\CruiseShip\CruiseShip\obj\Debug\CruiseShip.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\CruiseShip\CruiseShip\obj\Debug\CruiseShip.exe
+c:\users\wecancodeit\source\repos\CruiseShip\CruiseShip\obj\Debug\CruiseShip.pdb
